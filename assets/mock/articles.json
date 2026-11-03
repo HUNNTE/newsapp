@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {"id": null, "name": "Tech Daily"},
+      "author": "Budi Santoso",
+      "title": "Flutter 4.0 Resmi Dirilis dengan Fitur Baru",
+      "description": "Framework Flutter merilis versi terbaru dengan peningkatan performa yang signifikan.",
+      "url": "https://example.com/1",
+      "urlToImage": "https://picsum.photos/seed/tech1/600/400",
+      "publishedAt": "2026-11-03T08:00:00Z",
+      "content": "Konten lengkap berita tentang Flutter 4.0..."
+    },
+    {
+      "source": {"id": null, "name": "Sport News"},
+      "author": "Siti Aminah",
+      "title": "Timnas Indonesia Menang Telak di Laga Persahabatan",
+      "description": "Kemenangan besar diraih oleh timnas dalam laga uji coba melawan tim kuat Asia.",
+      "url": "https://example.com/2",
+      "urlToImage": "https://picsum.photos/seed/sport1/600/400",
+      "publishedAt": "2026-11-02T15:30:00Z",
+      "content": "Konten lengkap berita olahraga..."
+    },
+    {
+      "source": {"id": null, "name": "Bisnis Hari Ini"},
+      "author": null,
+      "title": "Saham Teknologi Melonjak Tinggi Hari Ini",
+      "description": null,
+      "url": "https://example.com/3",
+      "urlToImage": null,
+      "publishedAt": "2026-11-01T10:00:00Z",
+      "content": "Konten berita bisnis..."
+    }
+  ]
+}
